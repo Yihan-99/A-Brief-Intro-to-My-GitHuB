@@ -7,3 +7,8 @@
 - :hatching_chick: I'm a new learner, and I'll try my best to organize my codes and projects.
 
 - :bulb: If you have any suggestions or questions about my projects, feel free to reach out to me via <strong>fangyh99@umd.edu</strong>.
+
+
+#### If you would love to know more about me.....
+- Linkedin: https://www.linkedin.com/in/yihan-fang-974258235/
+- Twitter: https://twitter.com/Fang2Yihan
