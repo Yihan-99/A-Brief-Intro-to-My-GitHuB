@@ -1,9 +1,9 @@
-## Welcome to Yihan's GitHub :smile:
+## Welcome to Yihan's GitHub :octocat:
 
-Now I'm pursuing my <strong>meteorological master degree</strong> :mortar_board: in University of Maryland.
+- :mortar_board: I'm pursuing my <strong>meteorological master degree</strong> in University of Maryland.
 
-I'm interested in <strong>cloud, aerosols and machine learning algorithms</strong>, and I'd love to share all my project and codes to this GitHub platform.
+- :sparkling_heart: I'm interested in <strong>cloud, aerosols and machine learning algorithms</strong>.
 
-I'll try my best to organize my codes and projects, and I would love to learn new things to improve my programming skills.
+- :hatching_chick: I'm a new learner, and I'll try my best to organize my codes and projects.
 
-If you have any suggestions or questions about my projects, feel free to reach out to me via <strong>fangyh99@umd.edu</strong>.
+- :bulb: If you have any suggestions or questions about my projects, feel free to reach out to me via <strong>fangyh99@umd.edu</strong>.
