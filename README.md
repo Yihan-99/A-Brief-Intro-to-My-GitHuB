@@ -4,7 +4,7 @@
 
 - :sparkling_heart: I'm interested in <strong>cloud, aerosols and deep learning algorithms</strong>.
 
-- :hatching_chick: I'm a new learner, and I'll try my best to organize my codes and projects.
+- :hatching_chick: I'm a new programmer, primarily Python.
 
 - :bulb: If you have any suggestions or questions about my projects, feel free to reach out to me via <strong>yhanf99@gmail.com</strong>.
 
